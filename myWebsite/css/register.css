@@ -103,6 +103,6 @@
 
 @media (max-width: 400px) {
     .mycontainer {
-        margin-left: -70%;
+        position: absolute;
     }
 }
